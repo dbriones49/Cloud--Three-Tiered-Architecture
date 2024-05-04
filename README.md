@@ -1,1 +1,9 @@
-# Cloud--Three-Tiered-Architecture
+# Cloud-Three-Tiered-Architecture
+
+
+# Database Migration Architecture
+
+
+## Introduction
+
+This project involved 
