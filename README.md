@@ -4,4 +4,7 @@
 
 ## Introduction
 
-This project involved 
+XYZ company is launching an E-commerce business and is in need of a robust cloud solution to host their website and handle the demands of online shopping. In order to ensure seamless operation, the cloud architecture must be scalable to accommodate fluctuations in website traffic, provide redundancy to prevent downtime, be reliable for uninterrupted service, and offer top-notch security to protect customer data. Additionally, the client is looking for benefits such as efficient data storage and caching to enhance website performance.
+
+
+This project is an architect only example, and assumes the AWS Well Archeticted Tool has already been completed
