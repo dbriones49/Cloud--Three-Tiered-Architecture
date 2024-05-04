@@ -1,8 +1,6 @@
 # Cloud-Three-Tiered-Architecture
 
 
-# Database Migration Architecture
-
 
 ## Introduction
 
