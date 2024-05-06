@@ -1,4 +1,4 @@
-# Cloud-Three-Tiered-Architecture
+# Three-Tiered-Architecture
 
 
 
