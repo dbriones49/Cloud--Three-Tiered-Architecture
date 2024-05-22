@@ -18,11 +18,12 @@ For this design, I included both private and public subnets within a VPC, and I 
 
 The Web Server will host the website, Amazon Aurora will be used for the data storage, AWS Identity and Acess management will provides granular control over access to resources, Elastic Beanstalk will be used to auto manage the server and process payments, and AWS Cloudfront will allow the business to distribute their web content to their users with low latency and hig data transfer speeds. 
 
-A VPC NAT gateway will allow internet access to the resources in the private cloud, should the database require an patch. The VPC Endpoint will securely connect the VPC to the AWS services without the need for internet traffic, providing increased security and reduced latency. 
+The VPC Endpoint will securely connect the VPC to the AWS services without the need for internet traffic, providing increased security and reduced latency. 
 
 From a security stadpoint, firewalls at the VPC level and at the instance level will secure data in transit. Aurora supports encryption by default, securing data at rest. AWS IAM will also provide additional control by managing users, roles and permissions to the resources. Additional protection such as CloudShield, AWS WAF(Web Application Firewall), AWS Security Hub, and AWS Shield if needed. 
 
 
 
+![image](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture/assets/143753667/5f6330e3-75ad-4877-89f3-f7fd996110c1)
 
-![image](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture/assets/143753667/fbafe05d-1376-4db5-a778-8debb808387a)
+
