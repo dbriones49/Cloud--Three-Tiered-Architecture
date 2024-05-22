@@ -24,6 +24,7 @@ From a security stadpoint, firewalls at the VPC level and at the instance level 
 
 
 
-![image](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture/assets/143753667/5f6330e3-75ad-4877-89f3-f7fd996110c1)
+
+![image](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture/assets/143753667/9ecf458f-c78f-4631-95ed-6caabf183708)
 
 
