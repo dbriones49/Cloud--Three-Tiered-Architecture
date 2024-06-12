@@ -20,7 +20,7 @@ The Web Server will host the website, Amazon Aurora will be used for the data st
 
 The VPC Endpoint will securely connect the VPC to the AWS services without the need for internet traffic, providing increased security and reduced latency. 
 
-From a security stadpoint, firewalls at the VPC level and at the instance level will secure data in transit. Aurora supports encryption by default, securing data at rest. AWS IAM will also provide additional control by managing users, roles and permissions to the resources. Additional protection such as CloudShield, AWS WAF(Web Application Firewall), AWS Security Hub, and AWS Shield if needed. 
+From a security stadpoint, firewalls at the VPC level and at the instance level will secure data in transit. Aurora supports encryption by default, securing data at rest. AWS IAM will also provide additional control by managing users, roles and permissions to the resources. Additional protection such as CloudShield, AWS WAF(Web Application Firewall), AWS Security Hub, and AWS Shield can be also used if needed. 
 
 
 
